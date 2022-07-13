@@ -5,3 +5,5 @@ We have assisted Jack in creating the PlanMyTrip app, which collects information
 
 ## Purpose
 Now, as Beta testers have loved the app, they are interested in a few slight changes. Our project now consists of implementing the requests changes as well as expanding our set from 500 to 2,000 randomly generated latitudes and longitudes and retrieving the nearest cities. Utilizing API calls with the OpenWeatherMap and Google Directions, we also collect the cities corresponding current temperature and weather description. The app is now constructed to support user input statements to obtain their weather preferences for their travels, which are now also a criteria marker to identify potential travel destinations. We create one example of a customer’s possible travel destination and depict a travel route between for selected cities. Utilizing API calls as well as the creation of these maps puts global data at the grasp of our hands to model and envision real-life travel scenarios.  
+
+![travel_map_markers](Vacation_Itinerary/weatherpy_travel_map_markers.png)
