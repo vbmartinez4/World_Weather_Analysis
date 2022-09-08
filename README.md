@@ -1,4 +1,4 @@
-# World_Weather_Analysis
+# PlanMyTrip: World Weather Analysis
 
 ## Overview
 We have assisted Jack in creating the PlanMyTrip app, which collects information based by the user detailing their travel criteria and present to them their ideal hotel anywhere for their trip. Originally, we collected 500 random latitude and longitude data points, retrieved the closest cities of these coordinates, and used the open weather API to retrieve the weather data of these randomly generated locations. This essentially created the foundation of the app and from here used Google Directions API to map out travel destinations globally. With the creation of the app, for this project, we look to perform API calls and create travel destination and itinerary maps to detail how APIs visually can assist in creating a travel program and provide a smooth and detailed user interface experience. 
